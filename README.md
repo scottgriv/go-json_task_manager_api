@@ -2,7 +2,7 @@
 
 This is a simple Task Manager API written in Go. The API provides basic CRUD (Create, Read, Update, Delete) functionality to manage tasks. Tasks are saved in a tasks.json file for persistence.
 
-## Endpoints
+## API Endpoints
 ```GET /tasks: Retrieve a list of all Tasks.```
 
 Response:
@@ -52,7 +52,7 @@ Body:
 }
 ```
 
-## Running the Project
+## Getting Started
 
 ### Clone the Repository:
 
@@ -75,6 +75,20 @@ The server should now be running on http://localhost:8080.
 
 ## Testing
 Use a tool like [Postman](https://www.postman.com/) or [curl](https://curl.se/) to send requests to the server and test each endpoint. You can also import the incliuded Postman collection to get started.
+
+## What's Inside?
+go-json_task_manager_api/ 
+├── main.go (entry point)
+├── router.go (routes)
+├── handlers.go (request handlers)
+├── tasks.go (task model)
+├── postman/ (Postman collection)
+│   └── go-json_task_manager_api.postman_collection.json (import this file into Postman)
+├── sample/ (sample data)
+│   └── tasks_sample_output.json (sample output from GET /tasks)
+├── .gitignore (git ignore file)
+├── LICENSE (license file)
+└── README.md (this file)
 
 ## Credit
 **Author:** Scott Grivner <br>
