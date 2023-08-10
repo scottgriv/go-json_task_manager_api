@@ -77,6 +77,7 @@ The server should now be running on http://localhost:8080.
 Use a tool like [Postman](https://www.postman.com/) or [curl](https://curl.se/) to send requests to the server and test each endpoint. You can also import the incliuded Postman collection to get started.
 
 ## What's Inside?
+```
 go-json_task_manager_api/ 
 ├── main.go (entry point)
 ├── router.go (routes)
@@ -89,6 +90,7 @@ go-json_task_manager_api/
 ├── .gitignore (git ignore file)
 ├── LICENSE (license file)
 └── README.md (this file)
+```
 
 ## Credit
 **Author:** Scott Grivner <br>
