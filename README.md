@@ -57,7 +57,7 @@ Body:
 ### Clone the Repository:
 
 ```bash
-git clone https://github.com/scottgriv/go-json-task-manager-api
+git clone https://github.com/scottgriv/go-json_task_manager_api
 ```
 
 ### Change to the Directory:
@@ -80,4 +80,4 @@ Use a tool like [Postman](https://www.postman.com/) or [curl](https://curl.se/) 
 **Author:** Scott Grivner <br>
 **Email:** scott.grivner@gmail.com <br>
 **Website:** [scottgrivner.dev](https://www.scottgriv.dev) <br>
-**Reference:** [Main Branch](https://github.com/scottgriv/go-json-task-manager-api)
+**Reference:** [Main Branch](https://github.com/scottgriv/go-json_task_manager_api)
