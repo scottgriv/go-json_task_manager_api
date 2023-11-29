@@ -13,7 +13,7 @@ This file is used to connect this repository to the **PRG** project categorizati
 ## Project Information
 
 **Repository Tier:** Bronze <br>
-**Technology:** Go <br>
+**Technology:** Golang <br>
 **Category:** Utility API <br>
 **Order:** 0 <br>
 
